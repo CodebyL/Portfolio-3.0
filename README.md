@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/lisettecolon/]
+[![LinkedIn][linkedin-shield] href = "https://www.linkedin.com/in/lisettecolon/"][https://www.linkedin.com/in/lisettecolon/]
 
 
 
