@@ -24,7 +24,7 @@
     <a href="https://github.com/codebyl/portfolio-3.0"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/codebyl/portfolio-3.0">View Demo</a>
+    <a href="https://codebyl.github.io/Portfolio-3.0/">View Demo</a>
     ·
     <a href="https://github.com/codebyl/portfolio-3.0/issues">Report Bug</a>
     ·
