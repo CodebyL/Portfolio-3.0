@@ -64,8 +64,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="1440" alt="Screen Shot 2021-09-23 at 10 38 57 PM" src="https://user-images.githubusercontent.com/78636815/134609976-a7d5e94b-349e-406b-9eda-47a4883733c9.png">
-https://codebyl.github.io/Portfolio-3.0/
+
+![3 0pic](https://user-images.githubusercontent.com/78636815/136141476-136b338d-b991-4bc4-b98d-b1d26c0d4d04.JPG)
 
 
 ### Built With
